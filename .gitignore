@@ -1,0 +1,7 @@
+figures/
+1. Toy/.local/
+2. Case study/.local/
+__pycache__/
+*.py[cod]
+!sumo_patch/tools/libsumo/_libsumo.pyd
+*$py.class

@@ -1,0 +1,11 @@
+# Python: 3.11.9
+# SUMO: Eclipse SUMO 1.27.0
+bayesian-optimization==2.0.3
+gymnasium==1.0.0
+matplotlib==3.10.1
+numba==0.65.1
+numpy==2.2.3
+pandas==2.2.3
+scipy==1.15.2
+stable-baselines3==2.7.1
+torch==2.6.0

@@ -1,0 +1,40 @@
+Non-Commercial Research Software License
+
+Copyright (c) 2026 Donggyu Min
+
+Permission is granted, free of charge, to use, copy, modify, and distribute
+the original DODE-RL software and associated documentation files in this
+repository for non-commercial research, educational, and evaluation purposes,
+subject to the following conditions:
+
+This license applies only to material authored by Donggyu Min for this project.
+Third-party components included in this repository, including the patched SUMO
+runtime under sumo_patch/, remain subject to their own license terms and
+copyright notices. This license does not supersede those terms.
+
+1. The above copyright notice and this license notice must be included in all
+   copies or substantial portions of the software.
+2. Any modified version must clearly indicate that changes were made.
+3. The software may not be used, copied, modified, merged, published,
+   distributed, sublicensed, sold, or otherwise exploited for commercial
+   purposes without prior written permission from the copyright holder.
+
+Commercial purposes include, without limitation, use in or for a product,
+service, consulting engagement, paid research contract, revenue-generating
+workflow, internal business operation, or any activity primarily intended for
+commercial advantage or monetary compensation.
+
+No patent license is granted under this license, except to the extent strictly
+necessary to use the software for non-commercial research, educational, and
+evaluation purposes. To the extent any patent rights exist now or in the future
+in any jurisdiction, all such rights are reserved by their respective owners.
+
+For commercial licensing inquiries, contact the copyright holder.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

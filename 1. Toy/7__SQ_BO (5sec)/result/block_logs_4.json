@@ -1,0 +1,92 @@
+[
+  {
+    "block": 0,
+    "step_start": 0,
+    "step_end": 60,
+    "n_local": 60,
+    "n_var": 240,
+    "best_block_objective": -55.44444274902344,
+    "committed_reward_to_block_end": -175.77777099609375,
+    "best_block_action_sum_per_od": [
+      28,
+      31,
+      29,
+      35
+    ]
+  },
+  {
+    "block": 1,
+    "step_start": 60,
+    "step_end": 120,
+    "n_local": 60,
+    "n_var": 240,
+    "best_block_objective": -192.33334350585938,
+    "committed_reward_to_block_end": -713.6666564941406,
+    "best_block_action_sum_per_od": [
+      26,
+      30,
+      27,
+      28
+    ]
+  },
+  {
+    "block": 2,
+    "step_start": 120,
+    "step_end": 180,
+    "n_local": 60,
+    "n_var": 240,
+    "best_block_objective": -89.0,
+    "committed_reward_to_block_end": -818.4444580078125,
+    "best_block_action_sum_per_od": [
+      34,
+      30,
+      32,
+      27
+    ]
+  },
+  {
+    "block": 3,
+    "step_start": 180,
+    "step_end": 240,
+    "n_local": 60,
+    "n_var": 240,
+    "best_block_objective": -171.0,
+    "committed_reward_to_block_end": -1334.7777633666992,
+    "best_block_action_sum_per_od": [
+      29,
+      20,
+      28,
+      29
+    ]
+  },
+  {
+    "block": 4,
+    "step_start": 240,
+    "step_end": 300,
+    "n_local": 60,
+    "n_var": 240,
+    "best_block_objective": -37.888916015625,
+    "committed_reward_to_block_end": -1806.9999618530273,
+    "best_block_action_sum_per_od": [
+      30,
+      26,
+      30,
+      24
+    ]
+  },
+  {
+    "block": 5,
+    "step_start": 300,
+    "step_end": 360,
+    "n_local": 60,
+    "n_var": 240,
+    "best_block_objective": 122.66661071777344,
+    "committed_reward_to_block_end": -1991.5555572509766,
+    "best_block_action_sum_per_od": [
+      33,
+      30,
+      31,
+      32
+    ]
+  }
+]

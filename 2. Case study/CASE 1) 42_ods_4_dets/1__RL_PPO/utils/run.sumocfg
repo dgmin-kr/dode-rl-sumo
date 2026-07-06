@@ -1,0 +1,7 @@
+<configuration>
+  <input>
+    <net-file value="network.net.xml"/>
+    <route-files value="odset.rou.xml"/>
+    <additional-files value="detectors.add.xml"/>
+  </input>
+</configuration>

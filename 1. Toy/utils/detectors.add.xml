@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    
+    <inductionLoop id="D1" lane="E1_0" pos="268.77" period="300.00" file="det_data.xml" />
+    <inductionLoop id="D11" lane="E11_0" pos="290.07" period="300.00" file="det_data.xml" />
+    <inductionLoop id="D12" lane="E12_0" pos="295.74" period="300.00" file="det_data.xml" />
+    <inductionLoop id="D15" lane="E15_0" pos="291.48" period="300.00" file="det_data.xml" />
+    <inductionLoop id="D16" lane="E16_0" pos="300.00" period="300.00" file="det_data.xml" />
+    <inductionLoop id="D19" lane="E19_0" pos="302.79" period="300.00" file="det_data.xml" />
+    <inductionLoop id="D3" lane="E3_0" pos="308.61" period="300.00" file="det_data.xml" />
+    <inductionLoop id="D7" lane="E7_0" pos="300.15" period="300.00" file="det_data.xml" />
+    <inductionLoop id="D8" lane="E8_0" pos="298.59" period="300.00" file="det_data.xml" />
+</additional>

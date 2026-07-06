@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this code, data, or experimental results in your research, please cite the accompanying paper."
+title: "Deep Reinforcement Learning for Dynamic Origin-Destination Matrix Estimation in Microscopic Traffic Simulations Considering Credit Assignment"
+type: software
+authors:
+  - family-names: Min
+    given-names: Donggyu
+  - family-names: Choi
+    given-names: Seongjin
+  - family-names: Kim
+    given-names: Dong-Kyu
+preferred-citation:
+  type: article
+  title: "Deep Reinforcement Learning for Dynamic Origin-Destination Matrix Estimation in Microscopic Traffic Simulations Considering Credit Assignment"
+  authors:
+    - family-names: Min
+      given-names: Donggyu
+    - family-names: Choi
+      given-names: Seongjin
+    - family-names: Kim
+      given-names: Dong-Kyu
+  year: 2025
+  doi: "10.48550/arXiv.2511.06229"
+  url: "https://arxiv.org/pdf/2511.06229"
