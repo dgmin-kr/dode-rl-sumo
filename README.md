@@ -8,6 +8,8 @@ This repository provides the implementation package for a reinforcement
 learning-based dynamic origin-destination matrix estimation (DODE) framework
 for microscopic traffic simulation calibration.
 
+The related paper is available at https://arxiv.org/pdf/2511.06229.
+
 ## Overview
 
 - **What is the problem?** DODE calibrates time-dependent OD demand so that
